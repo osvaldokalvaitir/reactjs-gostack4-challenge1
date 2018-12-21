@@ -1,6 +1,6 @@
 # ReactJS - Desafio 1
 
-Descrição.
+RocketBook Application usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader, Sass Loader, EditorConfig, React DevTools, ESLint e Prettier.
 
 ## Desafio 1
 
@@ -20,6 +20,10 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ## Índice
 
+- [Telas](#telas)
+
+  - [Principal](#principal)
+
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -29,6 +33,13 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
+
+## Telas
+
+### Principal
+
+![Main](/assets/main.png)
+Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
 
 ## Desenvolvimento
 
