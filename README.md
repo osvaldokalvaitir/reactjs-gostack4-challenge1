@@ -1,6 +1,6 @@
 # ReactJS - Desafio 1
 
-RocketBook Application usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader, Sass Loader, EditorConfig, React DevTools, ESLint e Prettier.
+Aplicação RocketBook usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader, Sass Loader, EditorConfig, React DevTools, ESLint e Prettier.
 
 ## Desafio 1
 
