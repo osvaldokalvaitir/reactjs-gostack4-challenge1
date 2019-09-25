@@ -45,6 +45,8 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
+  
+  - [Ferramentas](#ferramentas)
 
 ## Capturas de Tela
 
@@ -106,3 +108,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [webpack-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-cli.md)
 
 - [webpack-dev-server](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-dev-server.md)
+
+### Ferramentas
+
+- [React Developer Tools](https://github.com/osvaldokalvaitir/projects-settings/blob/master/browser/chrome/extensions/react-developer-tools.md)
