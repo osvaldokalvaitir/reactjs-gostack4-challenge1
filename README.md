@@ -16,7 +16,7 @@ Aplicação RocketBook usando ReactJS, Babel, Webpack, prop-types, Style Loader,
 
 Configure uma estrutura ReactJS do zero com Babel, Webpack e Webpack Dev Server. Além disso, utilize as ferramentas ESLint, EditorConfig e Prettier durante o desenvolvimento desse projeto.
 
-![Feed](/assets/feed.png)
+![Feed](/.github/assets/feed.png)
 
 Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layout tentando chegar o mais próximo possível da imagem abaixo:
 
@@ -45,14 +45,14 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-  
+
   - [Ferramentas](#ferramentas)
 
 ## Capturas de Tela
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
 
 ## Desenvolvimento
